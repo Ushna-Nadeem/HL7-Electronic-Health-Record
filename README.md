@@ -1,6 +1,6 @@
 # 🏥 Electronic Health Record Microservice
 
-This project is a microservice designed to manage **Electronic Health Records (EHR)**. It allows you to perform CRUD (Create, Read, Update, Delete) operations on patient records and send those records to external services in **HL7** format. The system is split into a **frontend** and **backend**, both of which can be run independently.
+This project is a microservice designed to manage **Electronic Health Records (EHR)**. It allows you to perform CRUD operations on patient records and send those records to external services in **HL7** format. The system is split into a **frontend** and **backend**, both of which can be run independently.
 
 ## ✨ Features
 
